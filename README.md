@@ -1,4 +1,4 @@
-# Zerodha-Kite Clone
+# Finexo
 
 A clone of Zerodha Kite, a stock trading platform, built using modern web technologies to replicate its interface and functionalities.
 
