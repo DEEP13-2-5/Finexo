@@ -1,7 +1,5 @@
 # Finexo
 
-A clone of Zerodha Kite, a stock trading platform, built using modern web technologies to replicate its interface and functionalities.
-
 ## Features
 - Responsive and user-friendly UI similar to Zerodha Kite
 - Dashboard with real-time stock updates
@@ -28,11 +26,11 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DEEP13-2-5/Zerodha-Kite-Clone.git
+   git clone https://github.com/DEEP13-2-5/Finexo.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Zerodha-Kite-Clone
+   cd Finexo
    ```
 3. Install dependencies:
    ```bash
@@ -46,7 +44,7 @@ Ensure you have the following installed:
 
 ## Folder Structure
 ```
-Zerodha-Kite-Clone/
+Finexo/
 ├── src/
 │   ├── components/      # Reusable UI components
 │   ├── pages/           # Main application pages
